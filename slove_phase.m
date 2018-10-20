@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% A simple program to slove the phase in a Quantum communication problem.
-% The form of the equation is (T(phi_1, phi_2, phi_3))^alpha * [1 0 0]' =
-% [a b c]',where 'phi_1', 'phi_2' and 'phi_3' are variables.
+% A simple program to slove the phase in a Quantum communication problem. %
+% The form of the equation is (T(phi_1, phi_2, phi_3))^alpha * [1 0 0]' = %
+% [a b c]',where 'phi_1', 'phi_2' and 'phi_3' are variables.              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [phase] = slove_phase(alpha, a, b, c)
